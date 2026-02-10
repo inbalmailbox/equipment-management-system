@@ -1,0 +1,83 @@
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #0f172a; /* כחול כהה */
+  text-align: center; 
+}
+
+button {
+  padding: 7px 14px;
+  margin-right: 6px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button.add {
+  background-color: #14b8a6; /* טורקיז */
+  color: white;
+  margin-bottom: 16px;
+}
+
+button.edit {
+  background-color: #3b82f6; /* כחול */
+  color: white;
+}
+
+button.delete {
+  background-color: #ef4444; /* אדום */
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  text-align: left;
+  padding: 12px;
+  background: #f1f5f9;
+  border-bottom: 1px solid #ddd;
+  color: #334155;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+  color: #475569;
+}
+
+
+td:last-child {
+  text-align: center;
+}
+
+
+tr:hover {
+  background: #f8fafc;
+}
+
+.error {
+  color: #dc2626;
+  margin: 10px 0;
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
