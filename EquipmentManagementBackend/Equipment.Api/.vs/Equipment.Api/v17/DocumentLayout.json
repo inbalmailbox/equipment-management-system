@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\dtos\\createequipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:dtos\\createequipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\services\\iequipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:services\\iequipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\services\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:services\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\dtos\\equipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:dtos\\equipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|c:\\users\\inbal\\projects\\equipmentmanagementbackend\\equipment.api\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B1F30F1B-F704-22ED-2CBB-81FBD0C0D599}|Equipment.Api.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEquipmentService.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Services\\IEquipmentService.cs",
+              "RelativeDocumentMoniker": "Services\\IEquipmentService.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Services\\IEquipmentService.cs",
+              "RelativeToolTip": "Services\\IEquipmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:03:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Controllers\\EquipmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipmentController.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Controllers\\EquipmentController.cs",
+              "RelativeToolTip": "Controllers\\EquipmentController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA0wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:44:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEquipmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\DTOs\\CreateEquipmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateEquipmentDto.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\DTOs\\CreateEquipmentDto.cs",
+              "RelativeToolTip": "DTOs\\CreateEquipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:38:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\DTOs\\EquipmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EquipmentDto.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\DTOs\\EquipmentDto.cs",
+              "RelativeToolTip": "DTOs\\EquipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:36:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.sql ",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\database.sql",
+              "RelativeDocumentMoniker": "database.sql",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\database.sql",
+              "RelativeToolTip": "database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-09T23:36:06.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:55:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentService.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Services\\EquipmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EquipmentService.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Services\\EquipmentService.cs",
+              "RelativeToolTip": "Services\\EquipmentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:50:11.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\inbal\\projects\\EquipmentManagementBackend\\Equipment.Api\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:49:54.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
